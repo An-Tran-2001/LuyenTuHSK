@@ -3,6 +3,8 @@
 Ứng dụng Tkinter hỗ trợ ôn luyện từ vựng HSK (HSK1–HSK6) với câu hỏi trắc nghiệm nhiều lựa chọn. Dữ liệu nguồn được lấy trực tiếp từ file Excel tổng hợp, mỗi sheet tương ứng với một cấp độ HSK. Chương trình theo dõi tiến độ, số câu trả lời đúng/sai, trái tim (mạng), đồng thời lưu lại lịch sử thi và cho phép xem lại chi tiết từng câu hỏi.
 
 > Được tạo 100% bằng AI (chưa review hay xem gì vì lười tạo ra chỉ để học vẹt tiếng trung)
+
+> Tải ở releases hoặc [ấn vào link](https://github.com/An-Tran-2001/LuyenTuHSK/releases/tag/v1.0)
 ## Yêu cầu hệ thống
 - Python 3.10 trở lên (ứng dụng dùng kiểu chú thích PEP 585)
 - Thư viện `pandas` kèm `openpyxl` để đọc file `.xlsx`
